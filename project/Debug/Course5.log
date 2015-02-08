@@ -1,0 +1,41 @@
+﻿Build started 2/24/2013 1:47:58 AM.
+     1>Project "C:\Users\maenolis\Documents\sxolh\graphicsAlkisFetino\project_05076\project\Course5.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Course5.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp visuals.cpp
+         visuals.cpp
+     1>c:\users\maenolis\documents\sxolh\graphicsalkisfetino\project_05076\project\visuals.cpp(340): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\maenolis\documents\sxolh\graphicsalkisfetino\project_05076\project\visuals.cpp(342): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\maenolis\documents\sxolh\graphicsalkisfetino\project_05076\project\visuals.cpp(346): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\maenolis\documents\sxolh\graphicsalkisfetino\project_05076\project\visuals.cpp(348): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\maenolis\documents\sxolh\graphicsalkisfetino\project_05076\project\visuals.cpp(352): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\maenolis\documents\sxolh\graphicsalkisfetino\project_05076\project\visuals.cpp(354): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+         main.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Course5.exe.embed.manifest.res" Debug\Course5_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\maenolis\Documents\sxolh\graphicsAlkisFetino\project_05076\project\Debug\Course5.exe" /INCREMENTAL /NOLOGO /LIBPATH:gl odbc32.lib odbccp32.lib opengl32.lib glaux.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Course5.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\maenolis\Documents\sxolh\graphicsAlkisFetino\project_05076\project\Debug\Course5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\maenolis\Documents\sxolh\graphicsAlkisFetino\project_05076\project\Debug\Course5.lib" /MACHINE:X86 Debug\Course5.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\visuals.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Course5.exe.embed.manifest" /manifest Debug\Course5.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Course5.vcxproj -> C:\Users\maenolis\Documents\sxolh\graphicsAlkisFetino\project_05076\project\Debug\Course5.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Course5.unsuccessfulbuild".
+         Touching "Debug\Course5.lastbuildstate".
+     1>Done Building Project "C:\Users\maenolis\Documents\sxolh\graphicsAlkisFetino\project_05076\project\Course5.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.18
